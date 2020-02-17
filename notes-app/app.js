@@ -1,7 +1,7 @@
 const yargs = require("yargs");
 const notes = require("./notes");
 const chalk = require('chalk')
-
+debugger;
 yargs.command({
     command: "add",
     describe: "Add a new note",
